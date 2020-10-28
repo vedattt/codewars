@@ -1,3 +1,5 @@
+// Original problem: https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b
+
 const binomialCoefficient = (n, k) => {
   const factorial = x => {
     let result = 1;
