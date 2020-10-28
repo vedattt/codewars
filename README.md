@@ -1,6 +1,6 @@
 This repository is meant to keep a few of my worthy kata solutions from codewars.com.
 Namely, kata that is ranked 4 kyu and higher. 
-( Kata solutions that I find shameful are omitted :]. )
+(Many kata solutions are omitted nonetheless.)
 
 https://www.codewars.com/users/Ved
 
